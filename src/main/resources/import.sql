@@ -1,0 +1,15 @@
+insert into tb_client (name, cpf, income, birth_date, children) values ('Kai Cunha Dias', '612.526.247-27', '1973-03-11', 1);
+insert into tb_client (name, cpf, income, birth_date, children) values ('Gabrielle Alves Pereira', '658.724.334-76', '1983-04-26', 1);
+insert into tb_client (name, cpf, income, birth_date, children) values ('Emilly Castro Souza', '983.663.254-90', '1959-11-24', 3);
+insert into tb_client (name, cpf, income, birth_date, children) values ('Ágatha Costa Fernandes', '707.141.265-00', '1985-10-07', 1);
+insert into tb_client (name, cpf, income, birth_date, children) values ('Luan Goncalves Sousa', '666.651.361-40', '1977-07-02', 2);
+insert into tb_client (name, cpf, income, birth_date, children) values ('Alex Almeida Costa', '534.989.182-06', '1952-12-29', 2);
+insert into tb_client (name, cpf, income, birth_date, children) values ('Livia Fernandes Sousa', '181.444.204-97', '1934-03-05', 5);
+insert into tb_client (name, cpf, income, birth_date, children) values ('Igor Cardoso Sousa', '527.572.521-35', '1972-05-14', 2);
+insert into tb_client (name, cpf, income, birth_date, children) values ('Guilherme Lima Santos', '981.943.155-73', '1976-02-11', 2);
+insert into tb_client (name, cpf, income, birth_date, children) values ('Rebeca Almeida Carvalho', '730.189.310-84', '1995-06-15', 2);
+insert into tb_client (name, cpf, income, birth_date, children) values ('Bianca Costa Pinto', '397.857.709-74', '1998-08-01', 6);
+insert into tb_client (name, cpf, income, birth_date, children) values ('Gabrielle Silva Cunha', '759.691.788-70', '1936-11-10', 8);
+insert into tb_client (name, cpf, income, birth_date, children) values ('Daniel Pinto Gomes', '651.615.788-07', '1952-02-16', 5);
+insert into tb_client (name, cpf, income, birth_date, children) values ('Diego Cardoso Almeida', '401.614.099-46', '1955-12-12', 3);
+insert into tb_client (name, cpf, income, birth_date, children) values ('Clara Carvalho Alves', '541.731.389-03', '1996-07-29', 0);
