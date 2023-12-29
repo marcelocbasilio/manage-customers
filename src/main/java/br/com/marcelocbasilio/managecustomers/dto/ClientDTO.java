@@ -15,7 +15,6 @@ public class ClientDTO {
     private String name;
     private String cpf;
     private Double income;
-    @NotBlank(message = "Campo requerido")
     @PastOrPresent(message = "Não pode fornecer datas futuras.")
     private LocalDate birthDate;
     private Integer children;
